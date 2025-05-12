@@ -17,7 +17,7 @@
 ### Questões Médias
 | Título | Responsável | 
 | -- | -- | 
-|  | Fábio gabriel | 
+| Roteadores | Fábio gabriel | 
 | | Nathan Abreu | 
 
 
@@ -25,12 +25,18 @@
 ### Questões Difíceis
 | Título | Responsável | 
 | -- | -- | 
-|  | Fábio Gabriel | 
+| Ilhas | Fábio Gabriel | 
 | | Nathan Abreu | 
 
 
 ## Screenshots
+### [Roteadores](https://moj.naquadah.com.br/cgi-bin/questao.sh/monitores%23bee-roteadores)
 
+![Roteadores](img/Roteadores_image.png)
+
+### [Ilhas](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2018f1pu_ilhas)
+
+![Ilhas](img/Ilhas_image.png)
 
 
 ## Link do vídeo
