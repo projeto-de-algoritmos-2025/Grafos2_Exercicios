@@ -1,7 +1,7 @@
 # Grafos2_Exercicios
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: Grafos 1<br>
+**Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
 |Matrícula | Aluno |
