@@ -44,7 +44,7 @@
 
 ### [Critical and Pseudo Edges (Kruskal)](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/?envType=problem-list-v2&envId=strongly-connected-component)
 
-![Critical Edges](img/Kruskal.PNG)
+![Critical Edges](img/KRUSKAL.PNG)
 
 
 ## Link do vídeo
