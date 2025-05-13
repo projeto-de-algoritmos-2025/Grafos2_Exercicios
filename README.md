@@ -18,7 +18,7 @@
 | Título | Responsável | 
 | -- | -- | 
 | Roteadores | Fábio gabriel | 
-| Min cost to connect to all points | Nathan Abreu | 
+| Minimum Cost to All Points | Nathan Abreu | 
 
 
 
@@ -37,10 +37,6 @@
 ### [Ilhas](https://moj.naquadah.com.br/cgi-bin/questao.sh/obi-problems%23obi2018f1pu_ilhas)
 
 ![Ilhas](img/Ilhas_image.png)
-
-### [Min Cost (Prim)](https://leetcode.com/problems/min-cost-to-connect-all-points/?envType=problem-list-v2&envId=minimum-spanning-tree)
-
-![Ilhas](img/PRIM.PNG)
 
 ### [Min Cost (Prim)](https://leetcode.com/problems/min-cost-to-connect-all-points/?envType=problem-list-v2&envId=minimum-spanning-tree)
 
