@@ -18,7 +18,7 @@
 | Título | Responsável | 
 | -- | -- | 
 | Roteadores | Fábio gabriel | 
-| | Nathan Abreu | 
+| Min cost to connect to all points | Nathan Abreu | 
 
 
 
@@ -26,7 +26,7 @@
 | Título | Responsável | 
 | -- | -- | 
 | Ilhas | Fábio Gabriel | 
-| | Nathan Abreu | 
+| Critical and Pseudo Edges | Nathan Abreu | 
 
 
 ## Screenshots
@@ -38,10 +38,20 @@
 
 ![Ilhas](img/Ilhas_image.png)
 
+### [Min Cost (Prim)](https://leetcode.com/problems/min-cost-to-connect-all-points/?envType=problem-list-v2&envId=minimum-spanning-tree)
+
+![Ilhas](img/PRIM.PNG)
+
+### [Min Cost (Prim)](https://leetcode.com/problems/min-cost-to-connect-all-points/?envType=problem-list-v2&envId=minimum-spanning-tree)
+
+![Min Cost](img/PRIM.PNG)
+
+### [Critical and Pseudo Edges (Kruskal)](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/?envType=problem-list-v2&envId=strongly-connected-component)
+
+![Critical Edges](img/Kruskal.PNG)
+
 
 ## Link do vídeo
-
-
 
 ## Instalação 
 **Linguagem**: C, Python <br>
